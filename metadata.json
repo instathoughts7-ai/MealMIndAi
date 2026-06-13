@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MealMind AI",
+  "description": "Plan meals. Save money. Reduce waste. A personal AI meal planner, budget optimizer, and grocery manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
