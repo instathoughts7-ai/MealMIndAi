@@ -1,6 +1,4 @@
-Save the following as **README.md** in your GitHub repository:
 
-```md
 # 🍽️ MealMind AI
 
 > Plan Meals. Save Money. Reduce Waste.
